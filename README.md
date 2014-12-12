@@ -8,4 +8,4 @@ creeation of simple UI with the "Kontakt Scripting Language".
 ![screenshot](/example/screenshot.png?raw=true "creenshot")
 
 
-[![Analytics](https://ga-beacon.appspot.com/UA-49277456-5/uimacros4ksp?pixel)](https://github.com/igrigorik/ga-beacon)
+![Analytics](https://ga-beacon.appspot.com/UA-49277456-5/uimacros4ksp?pixel)
