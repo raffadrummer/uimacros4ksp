@@ -65,10 +65,10 @@ declare const $UI_COL_WIDTH := ( ( UI_WIDTH - UI_BORDER_LEFT - UI_BORDER_RIGHT )
 
 #define SET_BG_IMAGE( NAME ) \
 	declare ui_label $_UI_BG ( 0, 0 ) @@@\
-    set_control_par_str( get_ui_id( $_UI_BG ), $CONTROL_PAR_TEXT, "" ) @@@\
-    set_control_par_str( get_ui_id( $_UI_BG ), $CONTROL_PAR_PICTURE, NAME ) @@@\
-    set_control_par( get_ui_id( $_UI_BG ), $CONTROL_PAR_POS_X, 0 ) @@@\
-    set_control_par( get_ui_id( $_UI_BG ), $CONTROL_PAR_POS_Y, 0 )
+	set_control_par_str( get_ui_id( $_UI_BG ), $CONTROL_PAR_TEXT, "" ) @@@\
+	set_control_par_str( get_ui_id( $_UI_BG ), $CONTROL_PAR_PICTURE, NAME ) @@@\
+	set_control_par( get_ui_id( $_UI_BG ), $CONTROL_PAR_POS_X, 0 ) @@@\
+	set_control_par( get_ui_id( $_UI_BG ), $CONTROL_PAR_POS_Y, 0 )
 
 {/*
 
