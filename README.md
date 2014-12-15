@@ -88,6 +88,8 @@ using the macros.
 
 The code in `model_i.ksp` contains the callbacks that react to the various control in the UI, what the callbacks do is basically to emit some text in the `OUTPUT` label.
 
+To build the example, refer to the instructions given in the [macros4ksp](https://github.com/raffadrummer/macros4ksp) repository.
+
 
 ![Analytics](https://ga-beacon.appspot.com/UA-49277456-5/uimacros4ksp?pixel)
 so
