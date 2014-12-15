@@ -80,7 +80,13 @@ Moreover some other macros are provided:
 
 ## A worked out example
 
-![screenshot](/example/screenshot.png?raw=true "creenshot")
+In the `example` directory you can find a proof of concept of the use of the macros. The code in `ui_i.ksp` builds the following UI
+
+![screenshot](/example/screenshot.png?raw=true "screenshot")
+
+using the macros.
+
+The code in `model_i.ksp` contains the callbacks that react to the various control in the UI, what the callbacks do is basically to emit some text in the `OUTPUT` label.
 
 
 ![Analytics](https://ga-beacon.appspot.com/UA-49277456-5/uimacros4ksp?pixel)
