@@ -92,4 +92,3 @@ To build the example, refer to the instructions given in the [macros4ksp](https:
 
 
 ![Analytics](https://ga-beacon.appspot.com/UA-49277456-5/uimacros4ksp?pixel)
-so
